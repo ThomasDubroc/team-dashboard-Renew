@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T10:31:56.802Z",
+  "generatedAt": "2026-07-28T09:30:10.733Z",
   "periods": {
     "lastWeek": {
       "start": "2026-07-20",
@@ -7,7 +7,7 @@
     },
     "thisMonth": {
       "start": "2026-07-01",
-      "end": "2026-07-27"
+      "end": "2026-07-28"
     }
   },
   "lastWeek": {
@@ -62,10 +62,10 @@
       }
     },
     "meetings": {
-      "lilian": 0,
-      "mathieu": 0,
-      "clara": 0,
-      "total": 0
+      "lilian": 3,
+      "mathieu": 4,
+      "clara": 4,
+      "total": 11
     },
     "tickets": {
       "lilian": 0,
@@ -89,10 +89,10 @@
   },
   "thisMonth": {
     "calls": {
-      "lilian": 0,
-      "mathieu": 0,
-      "clara": 0,
-      "total": 0,
+      "lilian": 78,
+      "mathieu": 64,
+      "clara": 47,
+      "total": 189,
       "byDay": {
         "mer. 1": {
           "total": 0,
@@ -255,14 +255,20 @@
           "lilian": 0,
           "mathieu": 0,
           "clara": 0
+        },
+        "mar. 28": {
+          "total": 0,
+          "lilian": 0,
+          "mathieu": 0,
+          "clara": 0
         }
       }
     },
     "meetings": {
-      "lilian": 19,
-      "mathieu": 16,
-      "clara": 10,
-      "total": 45
+      "lilian": 21,
+      "mathieu": 17,
+      "clara": 11,
+      "total": 49
     },
     "tickets": {
       "lilian": 0,
@@ -287,7 +293,7 @@
   "pipeline": {
     "total": 200,
     "byMember": {
-      "lilian": 80,
+      "lilian": 60,
       "mathieu": 0,
       "clara": 1
     },
@@ -296,7 +302,7 @@
     },
     "byStageAndMember": {
       "—": {
-        "lilian": 80,
+        "lilian": 60,
         "mathieu": 0,
         "clara": 1
       }
@@ -345,6 +351,33 @@
         "stageLabel": "—",
         "amount": 399,
         "closedate": "2026-07-16T09:52:01.410Z",
+        "member": null
+      },
+      {
+        "id": "14277360327",
+        "name": "jbacchieri@gmail.com - +33 667627296",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 500,
+        "closedate": "2026-07-28T09:18:54.982Z",
+        "member": null
+      },
+      {
+        "id": "15010393832",
+        "name": "[PAIEMENT] - New business - jbacchieri@gmail.com - 599",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 599,
+        "closedate": "2026-07-28T09:18:54.982Z",
+        "member": null
+      },
+      {
+        "id": "15010444763",
+        "name": "Renew - jbacchieri@gmail.com",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 599,
+        "closedate": "2026-07-28T09:18:54.982Z",
         "member": null
       },
       {
@@ -474,6 +507,33 @@
         "member": null
       },
       {
+        "id": "61523945702",
+        "name": "yael.alfred@s2hgroup.com - +33683556675",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 500,
+        "closedate": "2026-07-27T14:27:23.200Z",
+        "member": null
+      },
+      {
+        "id": "69349636303",
+        "name": "[Paiement] - New business - yael.alfred@wanadoo.fr - 998",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 1198,
+        "closedate": "2026-07-27T14:27:23.200Z",
+        "member": null
+      },
+      {
+        "id": "69470487743",
+        "name": "Renew - ",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 499,
+        "closedate": "2026-07-27T14:27:23.200Z",
+        "member": null
+      },
+      {
         "id": "197198663924",
         "name": "AE Inbound B2C - diastraore@gmail.com - +33624770220",
         "stage": "5337224397",
@@ -591,12 +651,39 @@
         "member": null
       },
       {
+        "id": "250883774713",
+        "name": "Subscription - 2025 - yael.alfred@wanadoo.fr",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 599,
+        "closedate": "2026-07-27T14:27:23.200Z",
+        "member": null
+      },
+      {
         "id": "250924256470",
         "name": "Subscription - 2025 - clairehelenemills@gmail.com",
         "stage": "5337224397",
         "stageLabel": "—",
         "amount": 599,
         "closedate": "2026-07-20T14:17:13.593Z",
+        "member": null
+      },
+      {
+        "id": "252456084718",
+        "name": "[PAIEMENT] - Renew - jbacchieri@gmail.com - 599",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 599,
+        "closedate": "2026-07-28T09:18:54.982Z",
+        "member": null
+      },
+      {
+        "id": "251102355667",
+        "name": "Jonathan Bacchieri - jbacchieri@gmail.com",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 415,
+        "closedate": "2026-05-06T15:57:08.425Z",
         "member": null
       },
       {
@@ -786,6 +873,51 @@
         "stageLabel": "—",
         "amount": 500,
         "closedate": "2026-07-17T15:27:20.553Z",
+        "member": null
+      },
+      {
+        "id": "274886320347",
+        "name": "AE - Inbound B2C - vds161999@gmail.com - +33 628377471",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 500,
+        "closedate": "2026-07-27T13:03:31.737Z",
+        "member": null
+      },
+      {
+        "id": "274734581949",
+        "name": "[PAIEMENT] - New business - vds161999@gmail.com - 299.5",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 599,
+        "closedate": "2026-07-27T13:03:31.737Z",
+        "member": null
+      },
+      {
+        "id": "275251637457",
+        "name": "Subscription - 2024 - vds161999@gmail.com",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 415,
+        "closedate": "2026-07-27T13:03:31.737Z",
+        "member": null
+      },
+      {
+        "id": "275380638917",
+        "name": "Subscription - 2025 - vds161999@gmail.com",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 599,
+        "closedate": "2026-07-27T13:03:31.737Z",
+        "member": null
+      },
+      {
+        "id": "274731060462",
+        "name": "Renew - vds161999@gmail.com",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 599,
+        "closedate": "2026-07-27T13:03:31.737Z",
         "member": null
       },
       {
@@ -1060,11 +1192,38 @@
       },
       {
         "id": "297447917800",
-        "name": "[PAIEMENT] - Renew - cocondesbois01@gmail.com - 349.5",
-        "stage": "5337224397",
+        "name": "[RE-OPEN] [PAIEMENT] - Renew - cocondesbois01@gmail.com - 349.5",
+        "stage": "5337224393",
         "stageLabel": "—",
         "amount": 349.5,
         "closedate": "2026-07-23T12:55:27.826Z",
+        "member": null
+      },
+      {
+        "id": "307788470486",
+        "name": "[PAIEMENT] - Renew - vds161999@gmail.com - 299.5",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 299.5,
+        "closedate": "2026-07-27T13:03:31.737Z",
+        "member": null
+      },
+      {
+        "id": "300353937645",
+        "name": "Courtage Assurance - Jonathan Bacchieri - Résidence Principale (1/2)",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 415,
+        "closedate": "2025-10-10T13:19:01.557Z",
+        "member": null
+      },
+      {
+        "id": "300357507306",
+        "name": "Courtage Assurance - Gil VaqueroPatricia - Résidence Principale (2/2)",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 415,
+        "closedate": "2025-10-10T13:19:15.773Z",
         "member": null
       },
       {
@@ -1092,6 +1251,15 @@
         "stageLabel": "—",
         "amount": 549,
         "closedate": "2026-07-17T08:20:41.406Z",
+        "member": null
+      },
+      {
+        "id": "308948121844",
+        "name": "AE - Inbound B2C - kd.karraz@gmail.com - +33 7 68 09 32 07",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 500,
+        "closedate": "2025-09-17T14:59:35.936Z",
         "member": null
       },
       {
@@ -1344,6 +1512,51 @@
         "stageLabel": "—",
         "amount": 599,
         "closedate": "2026-07-20T09:16:54.998Z",
+        "member": null
+      },
+      {
+        "id": "338134194386",
+        "name": "AE full cycle - ",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 599,
+        "closedate": "2026-07-27T12:25:44.317Z",
+        "member": null
+      },
+      {
+        "id": "340252386510",
+        "name": "[PAIEMENT] - New business - kd.karraz@gmail.com - 399",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 399,
+        "closedate": "2026-07-27T12:25:44.317Z",
+        "member": null
+      },
+      {
+        "id": "340185444594",
+        "name": "Subscription - 2024 - kd.karraz@gmail.com",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 415,
+        "closedate": "2026-07-27T12:25:44.317Z",
+        "member": null
+      },
+      {
+        "id": "339825986776",
+        "name": "Subscription - 2025 - kd.karraz@gmail.com",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 399,
+        "closedate": "2026-07-27T12:25:44.317Z",
+        "member": null
+      },
+      {
+        "id": "340194496729",
+        "name": "Renew - kd.karraz@gmail.com",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 399,
+        "closedate": "2026-07-27T12:25:44.317Z",
         "member": null
       },
       {
@@ -1894,213 +2107,6 @@
         "amount": 415,
         "closedate": "2026-07-03T10:11:00.287Z",
         "member": "lilian"
-      },
-      {
-        "id": "509461169361",
-        "name": "Demande de résiliation - tinyholidays971@gmail.com",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-03T09:30:49.172Z",
-        "member": "lilian"
-      },
-      {
-        "id": "509524482290",
-        "name": "Demande de résiliation - v.mccoy@live.fr",
-        "stage": "5337224396",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-03T15:24:00.197Z",
-        "member": "lilian"
-      },
-      {
-        "id": "509524482291",
-        "name": "Demande de résiliation - pauline.boedec@live.com",
-        "stage": "5337224396",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-03T15:24:00.329Z",
-        "member": "lilian"
-      },
-      {
-        "id": "509435981015",
-        "name": "Demande de résiliation - theophile.schille@gmail.com",
-        "stage": "5337224396",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-03T15:24:00.068Z",
-        "member": "lilian"
-      },
-      {
-        "id": "509435981017",
-        "name": "Demande de résiliation - wakspace@gmail.com",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-03T09:30:50.228Z",
-        "member": "lilian"
-      },
-      {
-        "id": "509437791451",
-        "name": "Demande de résiliation - gscokart@gmail.com",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-03T09:30:49.801Z",
-        "member": "lilian"
-      },
-      {
-        "id": "509542771911",
-        "name": "Demande de résiliation - dcouton4@gmail.com",
-        "stage": "5337224396",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-03T15:23:59.928Z",
-        "member": "lilian"
-      },
-      {
-        "id": "509461169363",
-        "name": "Demande de résiliation - florence.coutier@laposte.net",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-03T09:30:50.864Z",
-        "member": "lilian"
-      },
-      {
-        "id": "509511723227",
-        "name": "Demande de résiliation - haleba.benoit@hotmail.com",
-        "stage": "5337224396",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-03T10:11:02.364Z",
-        "member": "lilian"
-      },
-      {
-        "id": "509542771913",
-        "name": "Demande de résiliation - cecile@pebeyre.com",
-        "stage": "5337224396",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-03T15:23:59.799Z",
-        "member": "lilian"
-      },
-      {
-        "id": "509490239721",
-        "name": "Demande de résiliation - anass.aarab@gmail.com",
-        "stage": "5337224396",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-03T10:11:02.716Z",
-        "member": "lilian"
-      },
-      {
-        "id": "509504658650",
-        "name": "Demande de résiliation - franck.vautier@neuf.fr",
-        "stage": "5337224396",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-03T10:11:02.530Z",
-        "member": "lilian"
-      },
-      {
-        "id": "509521022145",
-        "name": "Demande de résiliation - nelsy.flores31@gmail.com",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-03T09:31:15.786Z",
-        "member": "lilian"
-      },
-      {
-        "id": "509544576197",
-        "name": "Demande de résiliation - martinegoss@hotmail.fr",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-03T09:30:51.046Z",
-        "member": "lilian"
-      },
-      {
-        "id": "509562319050",
-        "name": "Demande de résiliation - asma.elmehdaoui@gmail.com",
-        "stage": "5340209373",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": null,
-        "member": "lilian"
-      },
-      {
-        "id": "509482873052",
-        "name": "Demande de résiliation - fanny.coutinho@sfr.fr",
-        "stage": "5340209373",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": null,
-        "member": "lilian"
-      },
-      {
-        "id": "509482873053",
-        "name": "Demande de résiliation - audrey.klocker@gmail.com",
-        "stage": "5337224396",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-03T15:23:59.515Z",
-        "member": "lilian"
-      },
-      {
-        "id": "509515620595",
-        "name": "Demande de résiliation - fabrice.guiomard75@gmail.com",
-        "stage": "5337224396",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-03T15:23:59.663Z",
-        "member": "lilian"
-      },
-      {
-        "id": "509555157208",
-        "name": "Demande de résiliation - david_sumera@yahoo.fr",
-        "stage": "5337224396",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-03T10:11:02.863Z",
-        "member": "lilian"
-      },
-      {
-        "id": "509441481925",
-        "name": "Demande de résiliation - ennilghizlane4@gmail.com",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-03T09:31:16.994Z",
-        "member": "lilian"
-      },
-      {
-        "id": "509521022163",
-        "name": "Demande de résiliation - hokan.anim@gmail.com",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-03T09:31:39.974Z",
-        "member": null
-      },
-      {
-        "id": "509551677637",
-        "name": "Demande de résiliation - dylan.rchd@gmail.com",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-03T09:31:17.208Z",
-        "member": null
-      },
-      {
-        "id": "509492032752",
-        "name": "Demande de résiliation - so.cammarano@gmail.com",
-        "stage": "5337224396",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-03T10:11:03.011Z",
-        "member": null
       }
     ]
   }
