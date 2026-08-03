@@ -1,255 +1,22 @@
 {
-  "generatedAt": "2026-07-31T09:36:38.869Z",
+  "generatedAt": "2026-08-03T10:31:44.183Z",
   "periods": {
     "lastWeek": {
-      "start": "2026-07-20",
-      "end": "2026-07-26"
+      "start": "2026-07-27",
+      "end": "2026-08-02"
     },
     "thisMonth": {
-      "start": "2026-07-01",
-      "end": "2026-07-31"
+      "start": "2026-08-01",
+      "end": "2026-08-03"
     }
   },
   "lastWeek": {
     "calls": {
-      "lilian": 17,
-      "mathieu": 21,
-      "clara": 16,
-      "total": 54,
+      "lilian": 19,
+      "mathieu": 25,
+      "clara": 11,
+      "total": 55,
       "byDay": {
-        "lun. 20": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
-        "mar. 21": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
-        "mer. 22": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
-        "jeu. 23": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
-        "ven. 24": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
-        "sam. 25": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
-        "dim. 26": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        }
-      }
-    },
-    "meetings": {
-      "lilian": 3,
-      "mathieu": 4,
-      "clara": 4,
-      "total": 11
-    },
-    "tickets": {
-      "lilian": 0,
-      "mathieu": 0,
-      "clara": 0,
-      "total": 0
-    },
-    "churnReason": {
-      "lilian": 0,
-      "mathieu": 0,
-      "clara": 0,
-      "total": 0,
-      "reasons": []
-    },
-    "churnNoShow": {
-      "lilian": 0,
-      "mathieu": 0,
-      "clara": 0,
-      "total": 0
-    }
-  },
-  "thisMonth": {
-    "calls": {
-      "lilian": 79,
-      "mathieu": 72,
-      "clara": 49,
-      "total": 200,
-      "byDay": {
-        "mer. 1": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
-        "jeu. 2": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
-        "ven. 3": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
-        "sam. 4": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
-        "dim. 5": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
-        "lun. 6": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
-        "mar. 7": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
-        "mer. 8": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
-        "jeu. 9": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
-        "ven. 10": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
-        "sam. 11": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
-        "dim. 12": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
-        "lun. 13": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
-        "mar. 14": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
-        "mer. 15": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
-        "jeu. 16": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
-        "ven. 17": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
-        "sam. 18": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
-        "dim. 19": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
-        "lun. 20": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
-        "mar. 21": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
-        "mer. 22": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
-        "jeu. 23": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
-        "ven. 24": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
-        "sam. 25": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
-        "dim. 26": {
-          "total": 0,
-          "lilian": 0,
-          "mathieu": 0,
-          "clara": 0
-        },
         "lun. 27": {
           "total": 0,
           "lilian": 0,
@@ -279,14 +46,79 @@
           "lilian": 0,
           "mathieu": 0,
           "clara": 0
+        },
+        "sam. 1": {
+          "total": 0,
+          "lilian": 0,
+          "mathieu": 0,
+          "clara": 0
+        },
+        "dim. 2": {
+          "total": 0,
+          "lilian": 0,
+          "mathieu": 0,
+          "clara": 0
         }
       }
     },
     "meetings": {
-      "lilian": 26,
-      "mathieu": 18,
-      "clara": 13,
-      "total": 57
+      "lilian": 9,
+      "mathieu": 4,
+      "clara": 3,
+      "total": 16
+    },
+    "tickets": {
+      "lilian": 0,
+      "mathieu": 0,
+      "clara": 0,
+      "total": 0
+    },
+    "churnReason": {
+      "lilian": 0,
+      "mathieu": 0,
+      "clara": 0,
+      "total": 0,
+      "reasons": []
+    },
+    "churnNoShow": {
+      "lilian": 0,
+      "mathieu": 0,
+      "clara": 0,
+      "total": 0
+    }
+  },
+  "thisMonth": {
+    "calls": {
+      "lilian": 0,
+      "mathieu": 0,
+      "clara": 0,
+      "total": 0,
+      "byDay": {
+        "sam. 1": {
+          "total": 0,
+          "lilian": 0,
+          "mathieu": 0,
+          "clara": 0
+        },
+        "dim. 2": {
+          "total": 0,
+          "lilian": 0,
+          "mathieu": 0,
+          "clara": 0
+        },
+        "lun. 3": {
+          "total": 0,
+          "lilian": 0,
+          "mathieu": 0,
+          "clara": 0
+        }
+      }
+    },
+    "meetings": {
+      "lilian": 1,
+      "mathieu": 1,
+      "clara": 0,
+      "total": 2
     },
     "tickets": {
       "lilian": 0,
@@ -311,7 +143,7 @@
   "pipeline": {
     "total": 200,
     "byMember": {
-      "lilian": 17,
+      "lilian": 6,
       "mathieu": 4,
       "clara": 1
     },
@@ -320,7 +152,7 @@
     },
     "byStageAndMember": {
       "—": {
-        "lilian": 17,
+        "lilian": 6,
         "mathieu": 4,
         "clara": 1
       }
@@ -1452,12 +1284,57 @@
         "member": null
       },
       {
+        "id": "284528819400",
+        "name": "AE Inbound B2C - murf59@live.fr - +33 6 40 26 24 68",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 500,
+        "closedate": "2026-07-31T12:23:42.600Z",
+        "member": null
+      },
+      {
         "id": "284572961981",
         "name": "[PAIEMENT] - Remboursement - mai-caro@hotmail.fr - 100",
         "stage": "5337224397",
         "stageLabel": "—",
         "amount": -100,
         "closedate": "2025-08-11T07:25:18.396Z",
+        "member": null
+      },
+      {
+        "id": "286655389905",
+        "name": "Subscription - 2024 - murf59@live.fr",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 299.5,
+        "closedate": "2026-07-31T12:23:42.600Z",
+        "member": null
+      },
+      {
+        "id": "286638509243",
+        "name": "[PAIEMENT] - New business - murf59@live.fr - 699",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 1398,
+        "closedate": "2026-07-31T12:23:42.600Z",
+        "member": null
+      },
+      {
+        "id": "286687045864",
+        "name": "Subscription - 2025 - murf59@live.fr",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 699,
+        "closedate": "2026-07-31T12:23:42.600Z",
+        "member": null
+      },
+      {
+        "id": "286690766026",
+        "name": "Renew - murf59@live.fr",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 1398,
+        "closedate": "2026-07-31T12:23:42.600Z",
         "member": null
       },
       {
@@ -1593,6 +1470,15 @@
         "stageLabel": "—",
         "amount": 549,
         "closedate": "2026-07-17T08:20:41.406Z",
+        "member": null
+      },
+      {
+        "id": "308209275090",
+        "name": "[PAIEMENT] - Renew - murf59@live.fr - 699",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 699,
+        "closedate": "2026-07-31T12:23:42.600Z",
         "member": null
       },
       {
@@ -1857,6 +1743,15 @@
         "member": null
       },
       {
+        "id": "331812080857",
+        "name": "AE - Inbound B2C - montetclara@gmail.com - +33 6 02 71 17 60",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 500,
+        "closedate": "2026-08-03T09:57:54.077Z",
+        "member": null
+      },
+      {
         "id": "335038640333",
         "name": "[PAIEMENT] - New business - jeanbalas22@gmail.com - 299.5",
         "stage": "5337224397",
@@ -1974,6 +1869,42 @@
         "member": "lilian"
       },
       {
+        "id": "340528327891",
+        "name": "[PAIEMENT] - New business - montetclara@gmail.com - 299.5",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 599,
+        "closedate": "2026-08-03T09:57:54.077Z",
+        "member": null
+      },
+      {
+        "id": "341021925617",
+        "name": "Subscription - 2024 - montetclara@gmail.com",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 415,
+        "closedate": "2026-08-03T09:57:54.077Z",
+        "member": null
+      },
+      {
+        "id": "340999613633",
+        "name": "Subscription - 2025 - montetclara@gmail.com",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 599,
+        "closedate": "2026-08-03T09:57:54.077Z",
+        "member": null
+      },
+      {
+        "id": "341030958312",
+        "name": "Renew - montetclara@gmail.com",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 599,
+        "closedate": "2026-08-03T09:57:54.077Z",
+        "member": null
+      },
+      {
         "id": "341638067401",
         "name": "[PAIEMENT] - Renew - anaduranlara88@hotmail.com - 499",
         "stage": "5337224397",
@@ -2025,105 +1956,6 @@
         "stageLabel": "—",
         "amount": 415,
         "closedate": "2026-07-03T09:51:13.223Z",
-        "member": "lilian"
-      },
-      {
-        "id": "509526346971",
-        "name": "Demande de résiliation - valerie.mansuy7@orange.fr",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-03T09:24:54.193Z",
-        "member": "lilian"
-      },
-      {
-        "id": "509551673565",
-        "name": "Demande de résiliation - axel.boin7@gmail.com",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-03T09:24:54.472Z",
-        "member": "lilian"
-      },
-      {
-        "id": "509562314951",
-        "name": "Demande de résiliation - alicia.dufour91@gmail.com",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-03T09:24:54.870Z",
-        "member": "lilian"
-      },
-      {
-        "id": "509490236638",
-        "name": "Demande de résiliation - mrbesse@me.com",
-        "stage": "5340209373",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": null,
-        "member": "lilian"
-      },
-      {
-        "id": "509521013982",
-        "name": "Demande de résiliation - raphael.cocciolo@gmail.com",
-        "stage": "5337224396",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-03T09:51:13.409Z",
-        "member": "lilian"
-      },
-      {
-        "id": "509443189971",
-        "name": "Demande de résiliation - carolinemoreau67@outlook.fr",
-        "stage": "5337224396",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-03T15:24:10.628Z",
-        "member": "lilian"
-      },
-      {
-        "id": "509457564858",
-        "name": "Demande de résiliation - bastien.debaud@gmail.com",
-        "stage": "5337224396",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-03T15:24:10.517Z",
-        "member": "lilian"
-      },
-      {
-        "id": "509542769867",
-        "name": "Demande de résiliation - bertrand.vf@gmail.com",
-        "stage": "5337224396",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-03T09:51:13.576Z",
-        "member": "lilian"
-      },
-      {
-        "id": "509549955291",
-        "name": "Demande de résiliation - asimonbm1@gmail.com",
-        "stage": "5337224396",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-03T09:51:13.751Z",
-        "member": "lilian"
-      },
-      {
-        "id": "509479167180",
-        "name": "Demande de résiliation - alexandre.maille11@laposte.net",
-        "stage": "5337224396",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-03T10:10:58.660Z",
-        "member": "lilian"
-      },
-      {
-        "id": "509511721180",
-        "name": "Demande de résiliation - alexia.tran@live.fr",
-        "stage": "5340209373",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": null,
         "member": "lilian"
       }
     ]
