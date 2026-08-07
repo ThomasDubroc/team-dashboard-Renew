@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T09:33:46.782Z",
+  "generatedAt": "2026-08-07T08:05:23.486Z",
   "periods": {
     "lastWeek": {
       "start": "2026-07-27",
@@ -7,7 +7,7 @@
     },
     "thisMonth": {
       "start": "2026-08-01",
-      "end": "2026-08-06"
+      "end": "2026-08-07"
     }
   },
   "lastWeek": {
@@ -129,6 +129,12 @@
           "lilian": 0,
           "mathieu": 0,
           "clara": 0
+        },
+        "ven. 7": {
+          "total": 0,
+          "lilian": 0,
+          "mathieu": 0,
+          "clara": 0
         }
       }
     },
@@ -162,7 +168,7 @@
     "total": 200,
     "byMember": {
       "lilian": 0,
-      "mathieu": 3,
+      "mathieu": 6,
       "clara": 1
     },
     "byStage": {
@@ -171,7 +177,7 @@
     "byStageAndMember": {
       "—": {
         "lilian": 0,
-        "mathieu": 3,
+        "mathieu": 6,
         "clara": 1
       }
     },
@@ -384,6 +390,15 @@
         "member": null
       },
       {
+        "id": "16028694002",
+        "name": "BDR - qualification - edithfigus71@gmail.com - +33688464193",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 415,
+        "closedate": "2026-08-06T15:11:26.365Z",
+        "member": null
+      },
+      {
         "id": "16167770326",
         "name": "BDR - qualification - lotfi.orpi@yahoo.fr - +33 760546587",
         "stage": "5337224397",
@@ -399,6 +414,42 @@
         "stageLabel": "—",
         "amount": 599,
         "closedate": "2026-07-15T15:39:34.286Z",
+        "member": null
+      },
+      {
+        "id": "16337245882",
+        "name": "[PAIEMENT] - New business - edithfigus71@gmail.com - 599",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 599,
+        "closedate": "2026-08-06T15:11:26.365Z",
+        "member": null
+      },
+      {
+        "id": "16335890920",
+        "name": "Renew - edithfigus71@gmail.com",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 599,
+        "closedate": "2026-08-06T15:11:26.365Z",
+        "member": null
+      },
+      {
+        "id": "16337421784",
+        "name": "edithfigus71@gmail.com - +33688464193",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 599,
+        "closedate": "2026-08-06T15:11:26.365Z",
+        "member": null
+      },
+      {
+        "id": "16337267948",
+        "name": "Édith Figus - Courtage assurance - IL",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 100,
+        "closedate": "2026-08-06T15:11:26.365Z",
         "member": null
       },
       {
@@ -420,12 +471,39 @@
         "member": null
       },
       {
+        "id": "19058319841",
+        "name": "baptistemarchi@gmail.com - +33 688727685",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 500,
+        "closedate": "2026-08-06T15:29:37.745Z",
+        "member": null
+      },
+      {
         "id": "20668751088",
         "name": "makniahmed.m@gmail.com - +33 786782125",
         "stage": "5337224397",
         "stageLabel": "—",
         "amount": 500,
         "closedate": "2026-07-16T10:08:42.180Z",
+        "member": null
+      },
+      {
+        "id": "20926398680",
+        "name": "[PAIEMENT] - New business - baptistemarchi@gmail.com - 699",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 1398,
+        "closedate": "2026-08-06T15:29:37.745Z",
+        "member": null
+      },
+      {
+        "id": "20927512764",
+        "name": "Renew - baptistemarchi@gmail.com",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 1398,
+        "closedate": "2026-08-06T15:29:37.745Z",
         "member": null
       },
       {
@@ -579,6 +657,51 @@
         "stageLabel": "—",
         "amount": 415,
         "closedate": "2026-08-05T07:38:41.404Z",
+        "member": null
+      },
+      {
+        "id": "30365061349",
+        "name": "Soulas",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 500,
+        "closedate": "2026-08-06T15:40:07.386Z",
+        "member": "mathieu"
+      },
+      {
+        "id": "31813158109",
+        "name": "[PAIEMENT] - New business - clo.investissements@gmail.com - 599",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 599,
+        "closedate": "2026-08-06T15:40:07.386Z",
+        "member": "mathieu"
+      },
+      {
+        "id": "31769443532",
+        "name": "Renew - clo.investissements@gmail.com",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 599,
+        "closedate": "2026-08-06T15:40:07.386Z",
+        "member": null
+      },
+      {
+        "id": "31805930730",
+        "name": "clo.investissements@gmail.com - +33767104437",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 500,
+        "closedate": "2026-08-06T15:40:07.386Z",
+        "member": "mathieu"
+      },
+      {
+        "id": "60693564628",
+        "name": "Courtage Assurance - Édith Figus - Résidence Principale (1/1)",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 250,
+        "closedate": "2026-08-06T15:11:26.365Z",
         "member": null
       },
       {
@@ -759,6 +882,15 @@
         "stageLabel": "—",
         "amount": 599,
         "closedate": "2026-07-30T14:20:36.421Z",
+        "member": null
+      },
+      {
+        "id": "250890784976",
+        "name": "Subscription - 2025 - edithfigus71@gmail.com",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 599,
+        "closedate": "2026-08-06T15:11:26.365Z",
         "member": null
       },
       {
@@ -1185,6 +1317,15 @@
         "member": null
       },
       {
+        "id": "277548537028",
+        "name": "AE Inbound B2C - oreeimmo@gmail.com - +33 6 28 40 83 41",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 500,
+        "closedate": "2026-08-06T14:27:28.787Z",
+        "member": null
+      },
+      {
         "id": "277593059516",
         "name": "[PAIEMENT] - New business - davidbillard84@gmail.com - 499",
         "stage": "5337224397",
@@ -1356,6 +1497,42 @@
         "member": null
       },
       {
+        "id": "281637686510",
+        "name": "[PAIEMENT] - New business - oreeimmo@gmail.com - 399",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 399,
+        "closedate": "2026-08-06T14:27:28.787Z",
+        "member": null
+      },
+      {
+        "id": "281644868855",
+        "name": "Subscription - 2024 - oreeimmo@gmail.com",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 415,
+        "closedate": "2026-08-06T14:27:28.787Z",
+        "member": null
+      },
+      {
+        "id": "281641272531",
+        "name": "Subscription - 2025 - oreeimmo@gmail.com",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 399,
+        "closedate": "2026-08-06T14:27:28.787Z",
+        "member": null
+      },
+      {
+        "id": "281644877023",
+        "name": "Renew - oreeimmo@gmail.com",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 399,
+        "closedate": "2026-08-06T14:27:28.787Z",
+        "member": null
+      },
+      {
         "id": "282678975683",
         "name": "[PAIEMENT] - New business - vaninaseigneur@hotmail.fr - 549",
         "stage": "5337224397",
@@ -1500,6 +1677,24 @@
         "member": null
       },
       {
+        "id": "292110311631",
+        "name": "[PAIEMENT] - Renew - edithfigus71@gmail.com - 599",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 599,
+        "closedate": "2026-08-06T15:11:26.365Z",
+        "member": null
+      },
+      {
+        "id": "292137647301",
+        "name": "Subscription - 2024 - edithfigus71@gmail.com",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 415,
+        "closedate": "2026-08-06T15:11:26.365Z",
+        "member": null
+      },
+      {
         "id": "293045808324",
         "name": "[PAIEMENT] - New business - karinehacen@gmail.com - 199.5",
         "stage": "5337224397",
@@ -1545,6 +1740,15 @@
         "member": "clara"
       },
       {
+        "id": "295683717322",
+        "name": "AE Inbound B2C - may.wanda44@gmail.com - +33 6 50 29 40 12",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 500,
+        "closedate": "2026-08-06T12:49:06.296Z",
+        "member": null
+      },
+      {
         "id": "297447917800",
         "name": "[RE-OPEN] [PAIEMENT] - Renew - cocondesbois01@gmail.com - 349.5",
         "stage": "5337224393",
@@ -1578,6 +1782,42 @@
         "stageLabel": "—",
         "amount": 415,
         "closedate": "2025-10-10T13:19:15.773Z",
+        "member": null
+      },
+      {
+        "id": "300529550535",
+        "name": "[PAIEMENT] - New business - may.wanda44@gmail.com - 299.5",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 299.5,
+        "closedate": "2026-08-06T12:49:06.296Z",
+        "member": null
+      },
+      {
+        "id": "300091646144",
+        "name": "Subscription - 2024 - may.wanda44@gmail.com",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 415,
+        "closedate": "2026-08-06T12:49:06.296Z",
+        "member": null
+      },
+      {
+        "id": "300533119173",
+        "name": "Subscription - 2025 - may.wanda44@gmail.com",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 599,
+        "closedate": "2026-08-06T12:49:06.296Z",
+        "member": null
+      },
+      {
+        "id": "300368408797",
+        "name": "Renew - may.wanda44@gmail.com",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 599,
+        "closedate": "2026-08-06T12:49:06.296Z",
         "member": null
       },
       {
@@ -1734,246 +1974,12 @@
         "member": null
       },
       {
-        "id": "322831766739",
-        "name": "[PAIEMENT] - New business - tabarinialexandre@gmail.com - 599",
+        "id": "321806693607",
+        "name": "[PAIEMENT] - Renew - baptistemarchi@gmail.com - 699",
         "stage": "5337224397",
         "stageLabel": "—",
-        "amount": 599,
-        "closedate": "2026-07-23T09:13:29.825Z",
-        "member": null
-      },
-      {
-        "id": "323403178230",
-        "name": "Subscription - 2024 - tabarinialexandre@gmail.com",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-23T09:13:29.825Z",
-        "member": null
-      },
-      {
-        "id": "322777603302",
-        "name": "Subscription - 2025 - tabarinialexandre@gmail.com",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 599,
-        "closedate": "2026-07-23T09:13:29.825Z",
-        "member": null
-      },
-      {
-        "id": "323055552714",
-        "name": "Renew - tabarinialexandre@gmail.com",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 599,
-        "closedate": "2026-07-23T09:13:29.825Z",
-        "member": null
-      },
-      {
-        "id": "323542507741",
-        "name": "Subscription - 2024 - lotfi.orpi@yahoo.fr",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 599,
-        "closedate": "2026-07-15T15:39:34.286Z",
-        "member": null
-      },
-      {
-        "id": "323616814269",
-        "name": "Subscription - 2025 - makniahmed.m@gmail.com",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 599,
-        "closedate": "2026-07-16T10:08:42.180Z",
-        "member": null
-      },
-      {
-        "id": "324675198148",
-        "name": "[PAIEMENT] - Renew - makniahmed.m@gmail.com - 599",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 599,
-        "closedate": "2026-07-16T10:08:42.180Z",
-        "member": null
-      },
-      {
-        "id": "327225281762",
-        "name": "Subscription - 2024 - patrice.carre@laposte.net",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 599,
-        "closedate": "2026-08-03T14:23:24.571Z",
-        "member": null
-      },
-      {
-        "id": "327197716679",
-        "name": "[PAIEMENT] - New business - bridierpierre0@gmail.com - 199.5",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 199.5,
-        "closedate": "2026-07-23T12:47:12.248Z",
-        "member": null
-      },
-      {
-        "id": "327782549702",
-        "name": "Subscription - 2024 - bridierpierre0@gmail.com",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-23T12:47:12.248Z",
-        "member": null
-      },
-      {
-        "id": "327577144567",
-        "name": "Subscription - 2025 - bridierpierre0@gmail.com",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 399,
-        "closedate": "2026-07-23T12:47:12.248Z",
-        "member": null
-      },
-      {
-        "id": "327631694018",
-        "name": "Renew - bridierpierre0@gmail.com",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 399,
-        "closedate": "2026-07-23T12:47:12.248Z",
-        "member": null
-      },
-      {
-        "id": "327780804821",
-        "name": "[PAIEMENT] - New business - cmj65@live.fr - 299.5",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 599,
-        "closedate": "2026-07-28T12:32:22.867Z",
-        "member": null
-      },
-      {
-        "id": "327272578289",
-        "name": "Subscription - 2024 - cmj65@live.fr",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-07-28T12:32:22.867Z",
-        "member": null
-      },
-      {
-        "id": "327779010791",
-        "name": "Subscription - 2025 - cmj65@live.fr",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 599,
-        "closedate": "2026-07-28T12:32:22.867Z",
-        "member": null
-      },
-      {
-        "id": "327736799422",
-        "name": "Renew - cmj65@live.fr",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 599,
-        "closedate": "2026-07-28T12:32:22.867Z",
-        "member": null
-      },
-      {
-        "id": "330510693573",
-        "name": "Subscription - 2025 - thislequeux@gmail.com",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 599,
-        "closedate": "2026-08-04T07:57:22.827Z",
-        "member": null
-      },
-      {
-        "id": "330429871336",
-        "name": "[PAIEMENT] - Renew - thislequeux@gmail.com - 599",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 599,
-        "closedate": "2026-08-04T07:57:22.827Z",
-        "member": null
-      },
-      {
-        "id": "330546902214",
-        "name": "Subscription - 2025 - lotfi.orpi@yahoo.fr",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 599,
-        "closedate": "2026-07-15T15:39:34.286Z",
-        "member": null
-      },
-      {
-        "id": "330485767398",
-        "name": "[PAIEMENT] - Renew - lotfi.orpi@yahoo.fr - 599",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 599,
-        "closedate": "2026-07-15T15:39:34.286Z",
-        "member": null
-      },
-      {
-        "id": "330505693400",
-        "name": "Subscription - 2024 - thislequeux@gmail.com",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-08-04T07:57:22.827Z",
-        "member": null
-      },
-      {
-        "id": "330437463288",
-        "name": "AE Inbound B2C - jeanbalas22@gmail.com - +33 6 12 82 42 81",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 500,
-        "closedate": "2026-07-24T12:45:55.528Z",
-        "member": null
-      },
-      {
-        "id": "331812080857",
-        "name": "AE - Inbound B2C - montetclara@gmail.com - +33 6 02 71 17 60",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 500,
-        "closedate": "2026-08-03T09:57:54.077Z",
-        "member": null
-      },
-      {
-        "id": "335038640333",
-        "name": "[PAIEMENT] - New business - jeanbalas22@gmail.com - 299.5",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 599,
-        "closedate": "2026-07-24T12:45:55.528Z",
-        "member": null
-      },
-      {
-        "id": "334891267264",
-        "name": "Subscription - 2024 - jeanbalas22@gmail.com",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 299.5,
-        "closedate": "2026-07-24T12:45:55.528Z",
-        "member": null
-      },
-      {
-        "id": "334887716066",
-        "name": "Subscription - 2025 - jeanbalas22@gmail.com",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 299.5,
-        "closedate": "2026-07-24T12:45:55.528Z",
-        "member": null
-      },
-      {
-        "id": "335044076762",
-        "name": "Renew - jeanbalas22@gmail.com",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 599,
-        "closedate": "2026-07-24T12:45:55.528Z",
+        "amount": 699,
+        "closedate": "2026-08-06T15:29:37.745Z",
         "member": null
       }
     ]
