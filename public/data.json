@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T08:08:00.251Z",
+  "generatedAt": "2026-08-13T08:10:27.844Z",
   "periods": {
     "lastWeek": {
       "start": "2026-08-03",
@@ -7,7 +7,7 @@
     },
     "thisMonth": {
       "start": "2026-08-01",
-      "end": "2026-08-12"
+      "end": "2026-08-13"
     }
   },
   "lastWeek": {
@@ -89,10 +89,10 @@
   },
   "thisMonth": {
     "calls": {
-      "lilian": 20,
-      "mathieu": 38,
-      "clara": 22,
-      "total": 80,
+      "lilian": 0,
+      "mathieu": 0,
+      "clara": 0,
+      "total": 0,
       "byDay": {
         "sam. 1": {
           "total": 0,
@@ -165,14 +165,20 @@
           "lilian": 0,
           "mathieu": 0,
           "clara": 0
+        },
+        "jeu. 13": {
+          "total": 0,
+          "lilian": 0,
+          "mathieu": 0,
+          "clara": 0
         }
       }
     },
     "meetings": {
-      "lilian": 16,
-      "mathieu": 18,
-      "clara": 8,
-      "total": 42
+      "lilian": 0,
+      "mathieu": 0,
+      "clara": 0,
+      "total": 0
     },
     "tickets": {
       "lilian": 0,
@@ -198,7 +204,7 @@
     "total": 200,
     "byMember": {
       "lilian": 0,
-      "mathieu": 8,
+      "mathieu": 10,
       "clara": 2
     },
     "byStage": {
@@ -207,7 +213,7 @@
     "byStageAndMember": {
       "—": {
         "lilian": 0,
-        "mathieu": 8,
+        "mathieu": 10,
         "clara": 2
       }
     },
@@ -219,6 +225,24 @@
         "stageLabel": "—",
         "amount": 415,
         "closedate": "2026-07-03T09:31:49.146Z",
+        "member": null
+      },
+      {
+        "id": "9708065466",
+        "name": "[Paiement] - New Business - Vivien Bourgoin - 299",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 598,
+        "closedate": "2026-08-12T13:02:51.273Z",
+        "member": null
+      },
+      {
+        "id": "7195439061",
+        "name": "vivien bourgoin - Nouvelle transaction",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 415,
+        "closedate": "2026-08-12T13:02:51.273Z",
         "member": null
       },
       {
@@ -246,6 +270,15 @@
         "stageLabel": "—",
         "amount": 499,
         "closedate": "2026-08-07T14:15:40.253Z",
+        "member": null
+      },
+      {
+        "id": "9860975845",
+        "name": "Renew - goingoin23@gmail.com",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 598,
+        "closedate": "2026-08-12T13:02:51.273Z",
         "member": null
       },
       {
@@ -336,6 +369,15 @@
         "stageLabel": "—",
         "amount": 399,
         "closedate": "2026-07-16T09:52:01.410Z",
+        "member": null
+      },
+      {
+        "id": "13243505143",
+        "name": "[PAIEMENT] - Upsell - goingoin23@gmail.com - 499",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 499,
+        "closedate": "2026-08-12T13:02:51.273Z",
         "member": null
       },
       {
@@ -843,6 +885,15 @@
         "member": null
       },
       {
+        "id": "64898819316",
+        "name": "lapetitemaisondegauchoux@gmail.com - +33 619886692",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 500,
+        "closedate": "2026-08-12T13:58:50.872Z",
+        "member": "mathieu"
+      },
+      {
         "id": "69349636303",
         "name": "[Paiement] - New business - yael.alfred@wanadoo.fr - 998",
         "stage": "5337224397",
@@ -858,6 +909,24 @@
         "stageLabel": "—",
         "amount": 499,
         "closedate": "2026-07-27T14:27:23.200Z",
+        "member": null
+      },
+      {
+        "id": "85439097049",
+        "name": "New business - an-ka@laposte.net  - 599",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 599,
+        "closedate": "2026-08-12T13:58:50.872Z",
+        "member": "mathieu"
+      },
+      {
+        "id": "85440234683",
+        "name": "Renew - ",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 599,
+        "closedate": "2026-08-12T13:58:50.872Z",
         "member": null
       },
       {
@@ -912,6 +981,15 @@
         "stageLabel": "—",
         "amount": 500,
         "closedate": "2026-07-17T08:12:29.662Z",
+        "member": null
+      },
+      {
+        "id": "200346516725",
+        "name": "[PAIEMENT] - Renew - goingoin23@gmail.com - 499",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 499,
+        "closedate": "2026-08-12T13:02:51.273Z",
         "member": null
       },
       {
@@ -1032,6 +1110,15 @@
         "member": null
       },
       {
+        "id": "250847883485",
+        "name": "Subscription - 2025 - an-ka@laposte.net",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 699,
+        "closedate": "2026-08-12T13:58:50.872Z",
+        "member": null
+      },
+      {
         "id": "250883774713",
         "name": "Subscription - 2025 - yael.alfred@wanadoo.fr",
         "stage": "5337224397",
@@ -1083,6 +1170,15 @@
         "stageLabel": "—",
         "amount": 599,
         "closedate": "2026-07-29T09:46:41.978Z",
+        "member": null
+      },
+      {
+        "id": "251037393131",
+        "name": "Subscription - 2026 - goingoin23@gmail.com",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 599,
+        "closedate": "2026-08-12T13:02:51.273Z",
         "member": null
       },
       {
@@ -1236,6 +1332,15 @@
         "stageLabel": "—",
         "amount": 599,
         "closedate": "2026-08-10T14:50:14.889Z",
+        "member": null
+      },
+      {
+        "id": "262516982996",
+        "name": "Subscription - 2024 - goingoin23@gmail.com",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 415,
+        "closedate": "2026-08-12T13:02:51.273Z",
         "member": null
       },
       {
@@ -1407,6 +1512,15 @@
         "stageLabel": "—",
         "amount": 500,
         "closedate": "2026-07-17T15:27:20.553Z",
+        "member": null
+      },
+      {
+        "id": "274001217749",
+        "name": "Subscription - 2025 - goingoin23@gmail.com",
+        "stage": "5337224397",
+        "stageLabel": "—",
+        "amount": 415,
+        "closedate": "2026-08-12T13:02:51.273Z",
         "member": null
       },
       {
@@ -1902,114 +2016,6 @@
         "stageLabel": "—",
         "amount": 299.5,
         "closedate": "2026-07-31T12:23:42.600Z",
-        "member": null
-      },
-      {
-        "id": "286638509243",
-        "name": "[PAIEMENT] - New business - murf59@live.fr - 699",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 1398,
-        "closedate": "2026-07-31T12:23:42.600Z",
-        "member": null
-      },
-      {
-        "id": "286687045864",
-        "name": "Subscription - 2025 - murf59@live.fr",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 699,
-        "closedate": "2026-07-31T12:23:42.600Z",
-        "member": null
-      },
-      {
-        "id": "286690766026",
-        "name": "Renew - murf59@live.fr",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 1398,
-        "closedate": "2026-07-31T12:23:42.600Z",
-        "member": null
-      },
-      {
-        "id": "287107215570",
-        "name": "AE Inbound B2C - tabarinialexandre@gmail.com - +33 6 65 28 85 23",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 500,
-        "closedate": "2025-08-25T08:23:31.080Z",
-        "member": null
-      },
-      {
-        "id": "290655872219",
-        "name": "Subscription - 2024 - lathuillieremurielle@gmail.com",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-08-03T14:20:46.599Z",
-        "member": null
-      },
-      {
-        "id": "290630026480",
-        "name": "[PAIEMENT] - New business - lathuillieremurielle@gmail.com - 399",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 399,
-        "closedate": "2026-08-03T14:20:46.599Z",
-        "member": null
-      },
-      {
-        "id": "290661097686",
-        "name": "Subscription - 2025 - lathuillieremurielle@gmail.com",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 399,
-        "closedate": "2026-08-03T14:20:46.599Z",
-        "member": null
-      },
-      {
-        "id": "290659426546",
-        "name": "Renew - lathuillieremurielle@gmail.com",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 399,
-        "closedate": "2026-08-03T14:20:46.599Z",
-        "member": null
-      },
-      {
-        "id": "291821383925",
-        "name": "[PAIEMENT] - Renew - monsifelipe@gmail.com - 599",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 599,
-        "closedate": "2026-08-11T15:38:22.282Z",
-        "member": null
-      },
-      {
-        "id": "292110311631",
-        "name": "[PAIEMENT] - Renew - edithfigus71@gmail.com - 599",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 599,
-        "closedate": "2026-08-06T15:11:26.365Z",
-        "member": null
-      },
-      {
-        "id": "292137647301",
-        "name": "Subscription - 2024 - edithfigus71@gmail.com",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 415,
-        "closedate": "2026-08-06T15:11:26.365Z",
-        "member": null
-      },
-      {
-        "id": "293045808324",
-        "name": "[PAIEMENT] - New business - karinehacen@gmail.com - 199.5",
-        "stage": "5337224397",
-        "stageLabel": "—",
-        "amount": 599,
-        "closedate": "2026-07-20T09:16:54.998Z",
         "member": null
       }
     ]
