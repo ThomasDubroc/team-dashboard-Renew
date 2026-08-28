@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T17:57:48.019Z",
+  "generatedAt": "2026-08-28T19:07:57.599Z",
   "periods": {
     "lastWeek": {
       "start": "2026-08-17",
@@ -7,15 +7,15 @@
     },
     "thisMonth": {
       "start": "2026-08-01",
-      "end": "2026-08-27"
+      "end": "2026-08-28"
     }
   },
   "lastWeek": {
     "calls": {
-      "lilian": 0,
-      "mathieu": 0,
-      "clara": 0,
-      "total": 0,
+      "lilian": 27,
+      "mathieu": 66,
+      "clara": 22,
+      "total": 115,
       "byDay": {
         "lun. 17": {
           "total": 0,
@@ -62,10 +62,10 @@
       }
     },
     "meetings": {
-      "lilian": 0,
-      "mathieu": 0,
-      "clara": 0,
-      "total": 0
+      "lilian": 12,
+      "mathieu": 12,
+      "clara": 4,
+      "total": 28
     },
     "tickets": {
       "lilian": 0,
@@ -89,10 +89,10 @@
   },
   "thisMonth": {
     "calls": {
-      "lilian": 48,
-      "mathieu": 108,
-      "clara": 44,
-      "total": 200,
+      "lilian": 0,
+      "mathieu": 0,
+      "clara": 0,
+      "total": 0,
       "byDay": {
         "sam. 1": {
           "total": 0,
@@ -251,6 +251,12 @@
           "clara": 0
         },
         "jeu. 27": {
+          "total": 0,
+          "lilian": 0,
+          "mathieu": 0,
+          "clara": 0
+        },
+        "ven. 28": {
           "total": 0,
           "lilian": 0,
           "mathieu": 0,
